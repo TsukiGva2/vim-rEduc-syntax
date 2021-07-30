@@ -7,7 +7,7 @@ if exists("b:current_syntax")
   finish
 endif
 
-syn keyword reKeyword ate caso de e enquanto fim farei inicio ou para repita se tarefa teste vezes
+syn keyword reKeyword ate caso de e enquanto fim farei inicio ou para repita se tarefa teste vezes entao
 syn keyword reType booleano numero reduc texto
 syn keyword reBool verdadeiro falso
 syn match reNum /[0-9]\+/

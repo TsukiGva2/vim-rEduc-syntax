@@ -15,4 +15,4 @@ Plug 'TsukiGva2/vim-rEduc-syntax'
 call plug#end()
 ```
 
-on your .vimrc or init.vim.
+on your .vimrc or init.vim and then running PlugInstall.

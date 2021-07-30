@@ -1,5 +1,5 @@
 # Contributing
-thanks for considering contributing to this code! this document will tell you:
+thanks for considering contributing to this code! this document will tell you how to open issues and prs on this repo
 
 # opening a pull request
 
